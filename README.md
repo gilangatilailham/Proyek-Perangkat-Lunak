@@ -2,6 +2,7 @@
 ## 💫About Me :
 Saya Sekarang berkuliah di Program Studi Informatika, Universitas Bengkulu.
 Saya sedang mengerjakan proyek perangkat lunak di informatika universitas bengkulu
+
 Proyek perangkat lunak adalah suatu usaha yang direncanakan dan dilaksanakan untuk mengembangkan atau memodifikasi perangkat lunak (software) sesuai dengan kebutuhan yang spesifik. Proyek ini melibatkan berbagai tahap, sumber daya, dan proses untuk menciptakan perangkat lunak yang berfungsi dengan baik dan memenuhi tujuan yang telah ditentukan. Tujuan proyek perangkat lunak biasanya melibatkan pengembangan, pemeliharaan, atau pembaruan perangkat lunak yang dapat digunakan untuk berbagai keperluan, seperti bisnis, pendidikan, hiburan, dan banyak lagi. Proyek perangkat lunak melibatkan beberapa tahap utama, termasuk:
 1. Perencanaan: Tahap awal di mana tujuan proyek ditentukan, kebutuhan pengguna diidentifikasi, dan rencana kerja yang mencakup sumber daya, jadwal, dan anggaran dibuat.
 2. Analisis: Identifikasi kebutuhan sistem dan pemahaman mendalam tentang apa yang harus dicapai oleh perangkat lunak yang akan dikembangkan.
